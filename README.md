@@ -1,5 +1,5 @@
 # GitHelp
-This is the Official Repository for GitHelp.co.za
+This is the Official Repository for [GitHelp.co.za](http://githelp.co.za)
 
 This repository was a request that was made by members of Mybroadband.co.za
 
@@ -22,7 +22,7 @@ Version 1.0 has no special needs simply upload it to your www root and enjoy.
 ## Thanks
 Contributors will be named here
 
-Thanks to Domains.co.za for Hosting the website.
+Thanks to [Domains.co.za](https://www.domains.co.za/aff.php?aff=1868) for Hosting the website.
 
 ## Notes
 
