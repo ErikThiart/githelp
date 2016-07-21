@@ -141,7 +141,10 @@ git tag NAME
     <pre class="prettyprint lang-git"># Remove untracked files and directories
 git clean -fd
 # Check for errors
-git fsck</pre>
+git fsck
+# Purge remote repositories that no longer exists 
+git fetch -p
+</pre>
   </li>
   <li>
     <h3>Aliases</h3>
@@ -183,6 +186,15 @@ git checkout LOCAL_BRANCH</pre>
   <li>
     <h3>Set upstream</h3>
     <pre class="prettyprint lang-git">git branch --set-upstream BRANCH REMOTE/REMOTE_BRANCH</pre>
+  </li>
+  <li>
+    <h3>Rebase</h3>
+    <pre class="prettyprint lang-git">
+# Rebase
+git pull --rebase
+# Rebase and purge
+git pull --rebase -p
+    </pre>
   </li>
   <li>
     <h3>Files</h3>
