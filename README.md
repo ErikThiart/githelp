@@ -6,11 +6,14 @@ This repository was a request that was made by members of Mybroadband.co.za
 [Link to Thread](http://mybroadband.co.za/vb/showthread.php/830392-githelp-co-za-you-are-welcome?p=18009896&viewfull=1#post18009896)
 
 
-## Version 1.0
-20-07-2016 (DD/MM/YYY)
+## Version 1.1
+21-07-2016 (DD/MM/YYY)
+
+## Changelog
+- Added Rebase
 
 ## Installation
-Version 1.0 has no special needs simply upload it to your www root and enjoy.
+Version 1.1 has no special needs simply upload it to your www root and enjoy.
 
 ## Contributing
 1. Fork it!
