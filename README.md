@@ -26,6 +26,8 @@ Version 1.2 has no special needs simply upload it to your www root and enjoy.
 ## Thanks
 Contributors will be named here
 
+- Andrevdwal https://github.com/andrevdwal
+
 Thanks to [Domains.co.za](https://www.domains.co.za/aff.php?aff=1868) for Hosting the website.
 
 ## Notes
